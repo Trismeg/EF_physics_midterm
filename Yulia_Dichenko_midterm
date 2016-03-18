@@ -1,0 +1,145 @@
+1.	This question is about atomic spectra and energy levels.
+	Diagram 1 below shows part of the emission line spectrum of atomic hydrogen. The wavelengths of the principal lines in the visible region of the spectrum are shown.
+	Diagram 2 shows some of the principal energy levels of atomic hydrogen.
+ 
+ 
+(a)	Name the spectral series shown in diagram 1.
+......................................Balmer.. series................................................................		(1)
+(b)	Show, by calculation, that the energy of a photon of red light of wavelength 656 nm is 1.9 eV.
+λ= Hc/E  656 nm= (6.63 * 10^-34 * 3.00 *10^8 * c) / E
+656 nm= (1.24 * 10^-6 eVn)/ E      E= 1.9 eV....................................................
+.....................................................................................................................................
+.....................................................................................................................................
+ (3)
+(b)	On diagram 2, draw arrows to represent
+(i)	the electron transition that gives rise to the red line (label this arrow R).
+(1)
+(ii)	a possible electron transition that gives rise to the blue line (label this arrow B).
+(1)
+(Total 6 marks)
+
+ 
+2.	This question is about the radioactive decay of potassium-40.
+	A nucleus of the nuclide  K (potassium-40) decays to a stable nucleus of the nuclide  Ar (argon-40).
+(a)	State the names of the two particles emitted in this decay.
+a beta particle (β−, an electron) with a maximum energy of 1.33 MeV and an antineutrino
+(2)
+ 
+(b)	A sample of the isotope potassium-40 initially contains 1.5 × 1016 atoms. On average, 16 nuclei in this sample of the isotope undergo radioactive decay every minute.
+	Deduce that the decay constant for potassium-40 is 1.8 × 10−17 s−1.
+(16/1.5 * 10^16)/60s = 1.8 * 10^ -17 s^-1
+ (3)
+ 
+(c)	Determine the half-life of potassium-40.
+J ½ = ln2/λ = 0.69/1.8 * 10^ -17 = 3.8 * 10^-18
+.....................................................................................................................................
+(1)
+(Total 6 marks)
+
+ 
+3.	This question is about particle physics.
+	A neutron can decay into a proton, an electron and an antineutrino according to the reaction
+n → p + e + .
+(a)	Deduce the value of the electric charge of the antineutrino.
+1   1      0    0
+0n →1p + (-1)e +0 .
+ (1)
+ (b)	State whether a proton is a baryon or a lepton.
+.....................................................................................................................................
+(1)
+
+
+
+(b)	State the name of the fundamental interaction (force) that is responsible for this decay.
+(1)
+.......Weak force...........................................
+ 
+(c)	State how an antineutrino differs from a neutrino.
+............They have opposite lepton charges...................................................................
+(1)
+(Total 4 marks)
+
+ 
+4.	Nuclear binding energy and nuclear decay
+(a)	State what is meant by a nucleon, giving an example of two nucleons.
+a nucleon is one of the particles that makes up the atomic nucleus.................................................................................................................................... neutron and the proton
+...................................................................................................................................
+(2)
+ (b)	Explain what a nucleon is made of and what force holds it together.  Include a description of the exchange particle that mediates the interaction between nucleons.
+Each atomic nucleus consists of one or more nucleons, and each atom in turn consists of a cluster of nucleons surrounded by one or more electrons.................................................................................................................................... Gluons keeps quarks together.
+.....Strong force...................................................................................................
+...................................................................................................................................
+(2)
+(c)	Define what is meant by the mass defect of a nucleus.
+The mass defect of a nucleus represents the mass of the energy binding the nucleus, and is the difference between the mass of a nucleus and the sum of the masses of the nucleons of which it is composed.
+ (1)
+(c)	Define what is meant by the binding energy of a nucleus.
+Nuclear binding energy is the energy that would be required to disassemble the nucleus of an atom into its component parts.
+(1)
+ 
+
+	The graph below shows the variation with nucleon (mass) number of the binding energy per nucleon.
+ 
+(c)	Use the graph to explain why energy can be released in both the fission and the fusion processes.
+The key is in how tightly the protons and neutrons are held together. If a nuclear reaction produces nuclei that are more tightly bound than the originals then energy will be produced, if not you will need to put energy in to make the reaction happen.
+...................................................................................................................................
+(3)
+(c)	Use the graph to explain why there is an abundance of iron (Fe) in the universe.
+The heaviest nucleus that can be created in a star is, if I remember correctly, nickel-56. So as a massive star ages, it accumulates a lot of nickel-56 nuclei in its core. When that star turns into a type Ia supernova, the nickel-56 nuclei are scattered into space.
+But nickel-56 isn't stable. It decays via electron capture into iron-56, which is stable.
+...................................................................................................................................
+...................................................................................................................................
+...................................................................................................................................
+(2)
+ 
+
+(d)	A sample of carbon-11 has an initial mass of 4.0 × 10–15 kg. Carbon-11 has a half-life of approximately 20 minutes. Calculate the mass of carbon-11 remaining after one hour has elapsed.
+1 → ½ → ¼ → 1/8    1/8  * 4*10^-15 = 0.5*10^-15...................................................................................................................................
+...................................................................................................................................
+(2)
+ 
+(e)	Uranium-238,   undergoes α-decay to form an isotope of thorium. Write down the nuclear equation for this decay.
+238 U 92 → 2 Th 90 + 4 α 2...................................................................................................................................
+...................................................................................................................................
+(2)
+(Total 11 marks)
+
+ 
+5.	This question is about a proton.
+The proton is made out of three quarks.
+(a)	Explain why the three quarks in the proton do not violate the Pauli exclusion principle.
+It does not violate the Pauli exclusion principle because 2 U have opposite directions of their spins. One of them goes up , and the other one goes down........................One has spin +1/2 and another one has – ½, so they cancel out............................................................................................................
+(2)
+(b)	Quarks have spin  Explain how it is possible for the proton to also have spin 
+....... One U has spin +1/2 and another U has – ½, so they cancel out, so the spin is considered only from D, whose spin is ½. .............................................................................................................................
+...................................................................................................................................
+(2)
+(Total 4 marks)
+
+ 
+
+6.	Which one of the following correctly gives the number of electrons, protons and neutrons in a neutral atom of the nuclide  ?
+	Number of electrons	Number of protons	Number of neutrons
+A.	65	29	36
+B.	36	36	29
+C.	29	29	65
+D.	29	29	36
+(1)
+
+ 
+7.	The unified mass unit is defined as
+A.	the mass of one neutral atom of  C.
+B.	  of the mass of one neutral atom of  C.
+C.	  of the mass of one neutral atom of  C.
+D.	the mass of the nucleus of  C.
+(1)
+
+ 
+8.	Which of the following provides evidence for the existence of atomic energy levels?
+A.	The absorption line spectra of gases  ---> is correct
+B.	The existence of isotopes of elements
+C.	Energy release during fission reactions
+D.	The scattering of α -particles by a thin metal film
+(1)
+
+
